@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class User {
+public class User {
+    private int age;
+    private String name;
 }
